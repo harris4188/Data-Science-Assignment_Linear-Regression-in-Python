@@ -16,3 +16,5 @@ The file normalized_features.txt is the file that was generated to write normali
 ex1data1.txt is the data set for the first part. Details related to the data set can be found in "Assignment_1.docx"
 
 ex1data2.txt is the data set for the second part. Details related to the data set can be found in "Assignment_1.docx"
+
+The code was written and tested in Python 3.6.4
